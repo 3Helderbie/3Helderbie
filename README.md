@@ -1,4 +1,4 @@
-# 👋 Hello, eu sou @3Helderbie  
+# 👋 Hello, eu sou @Helderbie  
 
 ## 🔹 About mim  
 - 🚀 Tenho interesse em programação, design e tecnologia.  
@@ -7,9 +7,9 @@
 - 📬 Contato: [helderbiedom@gmail.com]  
 
 ## 🎭   
-- 🎮 Gamer, animes e boas histórias.  
-- 📖 Vontande de criar e expressar ideias.  
-- 🌍 Moçambique.  
+- 🎮 Gamer, animes e kools historys.  
+- 📖 Vontande de criar.  
+- 🌍 Moz.  
 
 ---
 
@@ -17,6 +17,6 @@
 
 
 <!---
-3Helderbie/3Helderbie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Helderbie/3Helderbie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
